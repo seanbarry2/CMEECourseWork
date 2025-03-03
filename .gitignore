@@ -2,3 +2,5 @@
 *.tmp
 *.pptx
 *.zip
+**/sandbox/
+2nd_semester
