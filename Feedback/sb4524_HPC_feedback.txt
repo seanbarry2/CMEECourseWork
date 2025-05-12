@@ -1,0 +1,83 @@
+HPC long practical feedback for Sean ( Sean Barry ) 2025
+ 
+email : sb4524@ic.ac.uk
+username : sb4524
+ 
+Your final mark is : 91.52 %
+ 
+Mark allocation break down
+1) Technically correct answers to all questions worth 60 % of final grade
+Your mark :  58.2 /60
+2) Quality of free text answers worth 8 % of final grade
+Your mark :  5.8 /8
+3) Quality of graphical outputs worth 8 % of final grade
+Your mark :  8.5 /10
+4) Quality of code worth 8 % of final grade
+Your mark :  7.5 /8
+5) Answers to challenge questions worth 16 % of final grade
+Your mark :  11 /14
+ 
+Marks for main questions
+Q 0 :    3 / 3
+Q 1 :    4 / 4
+Q 2 :    2 / 3    comments: the simulation was correct but the text didn't really answer the question which was supposed to be about smoothness of the results and comparing stochastic to deterministic giving reasons for the observation - this answer was purely descriptive.
+Q 3 :    10 / 10
+Q 4 :    9 / 10    comments: no .e and .o files handed in as requested on the worksheet
+Q 5 :    8 / 8
+Q 6 :    9.5 / 10    comments: well argued for large vs. small but not on spread vs. adult - it's not clear that spread is better approximated by the deterministic model than adult would be.
+Q 7 :    2 / 2
+Q 8 :    1 / 1
+Q 9 :    1 / 1
+Q 10 :    2 / 2
+Q 11 :    2 / 2
+Q 12 :    2 / 2
+Q 13 :    2 / 2
+Q 14 :    3 / 3
+Q 15 :    3 / 3
+Q 16 :    1 / 1
+Q 17 :    1 / 1
+Q 18 :    4 / 4
+Q 19 :    3 / 3
+Q 20 :    3 / 3
+Q 21 :    2 / 2
+Q 22 :    4 / 4
+Q 23 :    6 / 6
+Q 24 :    6 / 6
+Q 25 :    9 / 10    comments: no .e or .o files handed in otherwise excellent
+Q 26 :    10 / 10
+          ---------
+Total     112.5 / 116
+          ---------
+ 
+Marks for text quality :  5.8 /8
+Comments...
+In question 1 good but writing could have gone into more detail on the reasons why the system behaves in this way
+In question 2 well written English but needed to demonstrate more understanding about the reasons why to get a higher mark here.
+In question 5 excellent
+In question 6 very well written but not entirely correct in the reasoning around spread vs adult cases this was all about large populations vs. small
+In question 14 excellent
+In question 18 very good but would be nice to talk about dynamic equilibrium concept from lectures rather than 'equilibrium-like'
+In question 22 very good, but a bit more long-winded than was needed and didn't mention the key concept of dynamic equilibrium. Nevertheless it did show a strong underlying understanding and ability to explain clearly.
+ 
+Marks for graphics quality :  8.5 /10
+Comments...
+In question 1 very good but the legend unfortunately obscures some of the data
+In question 2 very good but legend again obscured the data
+In question 5 labels incomplete on bars and unsuitable y axis labels
+In question 6 exemplary
+In question 14 excellent
+In question 18 excellent, though if being picky I'd say it's better without the box on the legend
+In question 22 very good but spelling out 'number' of species and labelling all octaves fully (1,2-3,4-7) and so on would strengthen it
+In question 26 love the numbers on each bar, made it easier to check. Proper octave labels would have strengthened it
+ 
+Marks for code quality :  7.5 /8
+Comments...
+clear and well commented, for 'perfection' would have e.g. documented inputs and outputs for every function
+ 
+Marks for challenge questions :  11 /14
+Comments...
+challenge question A, excellent
+challenge question B, excellent, I'm impressed by the attempt to automatically detect the equilibrium point though the graph shows it's a substantial overestimate.
+challenge question C, very good, ideally would have more repeats to show a clearer average. In the text 'R value' was not explained (probably it means richness but the reader doesn't know that). The legend in the figure obscures some of the data
+challenge question D, excellent, though ideally we would focus the x axis on the interesting part of the data to demonstrate more clearly the numbers returned in the text answer.
+challenge question E, a good attempt but sadly the coalescence result isn't quite right because it doesn't match the HPC one, also the graph lacks attention to detail on this question - no octave labels
